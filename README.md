@@ -23,6 +23,13 @@ I work as a **Web Developer** and am always open to exciting collaboration oppor
 
 ---
 
+## What I'm also good at
+
+1. **HTML & CSS**
+2. **Servers**
+3. **Arch Linux**
+4. **Bash Scripting**
+
 ## 📬 Contact
 
 Feel free to get in touch via email:  
