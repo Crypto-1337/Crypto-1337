@@ -16,10 +16,10 @@ I work as a **Web Developer** and am always open to exciting collaboration oppor
 ## 🛠 My Top 5 Programming Languages
 
 1. **PHP**  
-2. **Dart**  
-3. **JavaScript**  
+2. **Javascript**  
+3. **Python**  
 4. **Java**  
-5. **Python**
+5. **Dart**
 
 ---
 
